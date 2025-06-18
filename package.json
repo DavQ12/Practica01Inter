@@ -1,0 +1,23 @@
+{
+  "name": "practica01",
+  "version": "1.0.0",
+  "description": "Practica 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavQ12/Practica01Inter.git"
+  },
+  "author": "Angel Quintero 319102963",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavQ12/Practica01Inter/issues"
+  },
+  "homepage": "https://github.com/DavQ12/Practica01Inter#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
